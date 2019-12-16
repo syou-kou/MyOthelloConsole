@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyOthelloConsole:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="MyOthelloConsole.jar">
+      <element id="module-output" name="MyOthelloConsole" />
+    </root>
+  </artifact>
+</component>
